@@ -11,4 +11,7 @@ body {
     width: 20px;
     height: 20px;
     background-color: blue;
+    transition: all 2s;
 }
+
+button :hover { background-color: blue, color: red}
